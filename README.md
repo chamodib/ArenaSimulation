@@ -2,7 +2,7 @@
 
 This project aims to simulate a model of the given case (SM Travel) using Arena Simulation software. The project was completed to the best of mine and my projectmates' abilities using the free student version of the software which has limited resources and modules. A short prompt of the case is below, with the whole case study and the final Arena file and final report within the repository. 
 
----------------------------- CASE --------------------------------
+----------------------------------------------------------------------------------------------
 
 SM Travel is in the process of consolidating our current small travel offices into two new
 locations that will handle all requests by phone. With the recent reduction in business
